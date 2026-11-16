@@ -1,0 +1,6 @@
+{
+  "name": "Kelechi Motors — Used Car Buyer's Guide",
+  "description": "Avoid the 7 costliest mistakes when buying a used car. Download Kelechi Motors' free PDF buyer's guide and connect directly with our dealership team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
